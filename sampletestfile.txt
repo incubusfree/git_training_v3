@@ -2,3 +2,4 @@ this is sample file1
 
 first training Project
 
+This is comparison Lecture
